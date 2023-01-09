@@ -1,0 +1,15 @@
+Component   : GY-GPS6MV2
+PCB Library : super_met.PcbLib
+Date        : 08.01.2023
+Time        : 21:41:29
+
+
+
+Dimension : 36.322 x 26.416 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 4          0        0       0        0
+ Top Overlay                 0          6        0       4        1
+--------------------------------------------------------------------
+ Total                       4          6        0       4        1

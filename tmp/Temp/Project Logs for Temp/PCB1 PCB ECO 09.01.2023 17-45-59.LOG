@@ -1,0 +1,18 @@
+Added Component: Designator=A1(DC-DC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(MICS-6814)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(BLUEPILL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(SIM800L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(CCS811)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(GY-GPS6MV2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6(AHT10 FOOT PRINT)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U7(TROYKA_GENERIC_MQ)
+Add component. Clean all parameters for all variants
+Added Class: Name=pcb1
+Added Room: Name=pcb1

@@ -1,0 +1,109 @@
+Altium Designer System: Library Component Rule Check
+PCB File : super_met
+Date     : 08.01.2023
+Time     : 21:42:39
+
+
+Name                Warnings
+------------------------------------------------------------------
+DC-DC                    Duplicate Pad Name On Pads Pad Free-5(-2.5mm,5.5mm) on Top Layer And Pad Free-5(-2.5mm,5.5mm) on Mechanical 1
+DC-DC                    Duplicate Pad Name On Pads Pad Free-4(8.5mm,5.5mm) on Top Layer And Pad Free-4(8.5mm,5.5mm) on Mechanical 1
+DC-DC                    Duplicate Pad Name On Pads Pad Free-3(8.5mm,-5.5mm) on Top Layer And Pad Free-3(8.5mm,-5.5mm) on Mechanical 1
+DC-DC                    Duplicate Pad Name On Pads Pad Free-2(0.5mm,-5.5mm) on Top Layer And Pad Free-2(0.5mm,-5.5mm) on Mechanical 1
+DC-DC                    Duplicate Pad Name On Pads Pad Free-1(-8.5mm,-5.5mm) on Top Layer And Pad Free-1(-8.5mm,-5.5mm) on Mechanical 1
+DC-DC                    Duplicate Pad Name On Pads Pad Free-6(-8.5mm,5.5mm) on Top Layer And Pad Free-6(-8.5mm,5.5mm) on Mechanical 1
+
+CCS811                   Duplicate Pad Name On Pads Pad Free-7(8.5mm,-5.5mm) on Multi-Layer And Pad Free-7(-8.5mm,-5.5mm) on Multi-Layer
+CCS811                   Duplicate Pad Name On Pads Pad Free-7(-6.223mm,6.16mm) on Multi-Layer And Pad Free-7(-8.5mm,-5.5mm) on Multi-Layer
+
+BLUEPILL                 Duplicate Primitives: Track (-0.065mm,0.254mm)(0.077mm,0.275mm) on Top Overlay And Track (-0.065mm,0.254mm)(0.077mm,0.275mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.16mm,0.192mm)(-0.065mm,0.254mm) on Top Overlay And Track (-0.16mm,0.192mm)(-0.065mm,0.254mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (0.395mm,-0.139mm)(0.429mm,0.059mm) on Top Overlay And Track (0.395mm,-0.139mm)(0.429mm,0.059mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (0.305mm,-0.268mm)(0.395mm,-0.139mm) on Top Overlay And Track (0.305mm,-0.268mm)(0.395mm,-0.139mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.251mm,0.291mm)(-0.078mm,0.394mm) on Top Overlay And Track (-0.251mm,0.291mm)(-0.078mm,0.394mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.078mm,0.394mm)(0.081mm,0.411mm) on Top Overlay And Track (-0.078mm,0.394mm)(0.081mm,0.411mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.54mm,1.761mm)(-1.525mm,1.61mm) on Top Overlay And Track (-1.54mm,1.761mm)(-1.525mm,1.61mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.593mm,1.867mm)(-1.54mm,1.761mm) on Top Overlay And Track (-1.593mm,1.867mm)(-1.54mm,1.761mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.758mm,1.823mm)(-1.733mm,1.869mm) on Top Overlay And Track (-1.758mm,1.823mm)(-1.733mm,1.869mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.758mm,1.823mm)(-1.754mm,1.77mm) on Top Overlay And Track (-1.758mm,1.823mm)(-1.754mm,1.77mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.754mm,1.77mm)(-1.711mm,1.7mm) on Top Overlay And Track (-1.754mm,1.77mm)(-1.711mm,1.7mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-3.287mm,-0.283mm)(-3.196mm,-0.294mm) on Top Overlay And Track (-3.287mm,-0.283mm)(-3.196mm,-0.294mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-3.196mm,-0.294mm)(-3.161mm,-0.284mm) on Top Overlay And Track (-3.196mm,-0.294mm)(-3.161mm,-0.284mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-3.161mm,-0.284mm)(-3.132mm,-0.264mm) on Top Overlay And Track (-3.161mm,-0.284mm)(-3.132mm,-0.264mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-3.338mm,0.007mm)(-3.265mm,0.012mm) on Top Overlay And Track (-3.338mm,0.007mm)(-3.265mm,0.012mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-3.265mm,0.012mm)(-3.208mm,0.014mm) on Top Overlay And Track (-3.265mm,0.012mm)(-3.208mm,0.014mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-3.208mm,0.014mm)(-3.102mm,-0.005mm) on Top Overlay And Track (-3.208mm,0.014mm)(-3.102mm,-0.005mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-3.102mm,-0.005mm)(-3.031mm,-0.053mm) on Top Overlay And Track (-3.102mm,-0.005mm)(-3.031mm,-0.053mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-3.512mm,0.02mm)(-3.494mm,0.008mm) on Top Overlay And Track (-3.512mm,0.02mm)(-3.494mm,0.008mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-3.494mm,0.008mm)(-3.478mm,0.003mm) on Top Overlay And Track (-3.494mm,0.008mm)(-3.478mm,0.003mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-3.478mm,0.003mm)(-3.399mm,0.003mm) on Top Overlay And Track (-3.478mm,0.003mm)(-3.399mm,0.003mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-3.399mm,0.003mm)(-3.338mm,0.007mm) on Top Overlay And Track (-3.399mm,0.003mm)(-3.338mm,0.007mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-2.289mm,1.329mm)(-2.248mm,1.258mm) on Top Overlay And Track (-2.289mm,1.329mm)(-2.248mm,1.258mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-2.301mm,1.392mm)(-2.289mm,1.329mm) on Top Overlay And Track (-2.301mm,1.392mm)(-2.289mm,1.329mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-2.301mm,1.392mm)(-2.281mm,1.493mm) on Top Overlay And Track (-2.301mm,1.392mm)(-2.281mm,1.493mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-2.281mm,1.493mm)(-2.233mm,1.559mm) on Top Overlay And Track (-2.281mm,1.493mm)(-2.233mm,1.559mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-2.035mm,1.467mm)(-2.022mm,1.447mm) on Top Overlay And Track (-2.035mm,1.467mm)(-2.022mm,1.447mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-2.022mm,1.447mm)(-2.015mm,1.424mm) on Top Overlay And Track (-2.022mm,1.447mm)(-2.015mm,1.424mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-2.02mm,1.378mm)(-2.015mm,1.424mm) on Top Overlay And Track (-2.02mm,1.378mm)(-2.015mm,1.424mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-2.071mm,1.299mm)(-2.02mm,1.378mm) on Top Overlay And Track (-2.071mm,1.299mm)(-2.02mm,1.378mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.793mm,1.272mm)(-1.768mm,1.254mm) on Top Overlay And Track (-1.793mm,1.272mm)(-1.768mm,1.254mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.821mm,1.281mm)(-1.793mm,1.272mm) on Top Overlay And Track (-1.821mm,1.281mm)(-1.793mm,1.272mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.882mm,1.276mm)(-1.821mm,1.281mm) on Top Overlay And Track (-1.882mm,1.276mm)(-1.821mm,1.281mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.983mm,1.211mm)(-1.882mm,1.276mm) on Top Overlay And Track (-1.983mm,1.211mm)(-1.882mm,1.276mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (1.098mm,1.003mm)(1.155mm,0.914mm) on Top Overlay And Track (1.098mm,1.003mm)(1.155mm,0.914mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (1.068mm,1.081mm)(1.098mm,1.003mm) on Top Overlay And Track (1.068mm,1.081mm)(1.098mm,1.003mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (0.513mm,0.754mm)(0.562mm,0.674mm) on Top Overlay And Track (0.513mm,0.754mm)(0.562mm,0.674mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (0.562mm,0.674mm)(0.576mm,0.601mm) on Top Overlay And Track (0.562mm,0.674mm)(0.576mm,0.601mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (0.363mm,0.285mm)(0.425mm,0.176mm) on Top Overlay And Track (0.363mm,0.285mm)(0.425mm,0.176mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (0.359mm,0.384mm)(0.363mm,0.285mm) on Top Overlay And Track (0.359mm,0.384mm)(0.363mm,0.285mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (0.266mm,0.407mm)(0.359mm,0.384mm) on Top Overlay And Track (0.266mm,0.407mm)(0.359mm,0.384mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (0.205mm,0.45mm)(0.266mm,0.407mm) on Top Overlay And Track (0.205mm,0.45mm)(0.266mm,0.407mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.827mm,-0.459mm)(-0.786mm,-0.53mm) on Top Overlay And Track (-0.827mm,-0.459mm)(-0.786mm,-0.53mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.839mm,-0.396mm)(-0.827mm,-0.459mm) on Top Overlay And Track (-0.839mm,-0.396mm)(-0.827mm,-0.459mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.839mm,-0.396mm)(-0.819mm,-0.295mm) on Top Overlay And Track (-0.839mm,-0.396mm)(-0.819mm,-0.295mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.819mm,-0.295mm)(-0.771mm,-0.229mm) on Top Overlay And Track (-0.819mm,-0.295mm)(-0.771mm,-0.229mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.573mm,-0.322mm)(-0.56mm,-0.341mm) on Top Overlay And Track (-0.573mm,-0.322mm)(-0.56mm,-0.341mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.56mm,-0.341mm)(-0.553mm,-0.364mm) on Top Overlay And Track (-0.56mm,-0.341mm)(-0.553mm,-0.364mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.558mm,-0.41mm)(-0.553mm,-0.364mm) on Top Overlay And Track (-0.558mm,-0.41mm)(-0.553mm,-0.364mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.61mm,-0.489mm)(-0.558mm,-0.41mm) on Top Overlay And Track (-0.61mm,-0.489mm)(-0.558mm,-0.41mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.331mm,-0.516mm)(-0.306mm,-0.534mm) on Top Overlay And Track (-0.331mm,-0.516mm)(-0.306mm,-0.534mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.36mm,-0.507mm)(-0.331mm,-0.516mm) on Top Overlay And Track (-0.36mm,-0.507mm)(-0.331mm,-0.516mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.42mm,-0.512mm)(-0.36mm,-0.507mm) on Top Overlay And Track (-0.42mm,-0.512mm)(-0.36mm,-0.507mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.521mm,-0.578mm)(-0.42mm,-0.512mm) on Top Overlay And Track (-0.521mm,-0.578mm)(-0.42mm,-0.512mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.256mm,-0.858mm)(-1.247mm,-0.733mm) on Top Overlay And Track (-1.256mm,-0.858mm)(-1.247mm,-0.733mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.247mm,-0.733mm)(-1.193mm,-0.651mm) on Top Overlay And Track (-1.247mm,-0.733mm)(-1.193mm,-0.651mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.193mm,-0.651mm)(-1.14mm,-0.61mm) on Top Overlay And Track (-1.193mm,-0.651mm)(-1.14mm,-0.61mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.14mm,-0.61mm)(-1.079mm,-0.585mm) on Top Overlay And Track (-1.14mm,-0.61mm)(-1.079mm,-0.585mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.079mm,-0.585mm)(-1.012mm,-0.58mm) on Top Overlay And Track (-1.079mm,-0.585mm)(-1.012mm,-0.58mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.012mm,-0.58mm)(-0.947mm,-0.595mm) on Top Overlay And Track (-1.012mm,-0.58mm)(-0.947mm,-0.595mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.947mm,-0.595mm)(-0.832mm,-0.659mm) on Top Overlay And Track (-0.947mm,-0.595mm)(-0.832mm,-0.659mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.832mm,-0.659mm)(-0.732mm,-0.748mm) on Top Overlay And Track (-0.832mm,-0.659mm)(-0.732mm,-0.748mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.732mm,-0.748mm)(-0.644mm,-0.847mm) on Top Overlay And Track (-0.732mm,-0.748mm)(-0.644mm,-0.847mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.644mm,-0.847mm)(-0.579mm,-0.962mm) on Top Overlay And Track (-0.644mm,-0.847mm)(-0.579mm,-0.962mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.579mm,-0.962mm)(-0.563mm,-1.026mm) on Top Overlay And Track (-0.579mm,-0.962mm)(-0.563mm,-1.026mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.566mm,-1.092mm)(-0.563mm,-1.026mm) on Top Overlay And Track (-0.566mm,-1.092mm)(-0.563mm,-1.026mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.591mm,-1.154mm)(-0.566mm,-1.092mm) on Top Overlay And Track (-0.591mm,-1.154mm)(-0.566mm,-1.092mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.632mm,-1.205mm)(-0.591mm,-1.154mm) on Top Overlay And Track (-0.632mm,-1.205mm)(-0.591mm,-1.154mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.684mm,-1.247mm)(-0.632mm,-1.205mm) on Top Overlay And Track (-0.684mm,-1.247mm)(-0.632mm,-1.205mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.744mm,-1.272mm)(-0.684mm,-1.247mm) on Top Overlay And Track (-0.744mm,-1.272mm)(-0.684mm,-1.247mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.809mm,-1.277mm)(-0.744mm,-1.272mm) on Top Overlay And Track (-0.809mm,-1.277mm)(-0.744mm,-1.272mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.874mm,-1.264mm)(-0.809mm,-1.277mm) on Top Overlay And Track (-0.874mm,-1.264mm)(-0.809mm,-1.277mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.989mm,-1.201mm)(-0.874mm,-1.264mm) on Top Overlay And Track (-0.989mm,-1.201mm)(-0.874mm,-1.264mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.256mm,-0.858mm)(-1.199mm,-0.981mm) on Top Overlay And Track (-1.256mm,-0.858mm)(-1.199mm,-0.981mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.199mm,-0.981mm)(-1.087mm,-1.113mm) on Top Overlay And Track (-1.199mm,-0.981mm)(-1.087mm,-1.113mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.087mm,-1.113mm)(-0.989mm,-1.201mm) on Top Overlay And Track (-1.087mm,-1.113mm)(-0.989mm,-1.201mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.764mm,-0.913mm)(-0.706mm,-1.016mm) on Top Overlay And Track (-0.764mm,-0.913mm)(-0.706mm,-1.016mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.827mm,-0.843mm)(-0.764mm,-0.913mm) on Top Overlay And Track (-0.827mm,-0.843mm)(-0.764mm,-0.913mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.949mm,-0.742mm)(-0.827mm,-0.843mm) on Top Overlay And Track (-0.949mm,-0.742mm)(-0.827mm,-0.843mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.023mm,-0.718mm)(-0.949mm,-0.742mm) on Top Overlay And Track (-1.023mm,-0.718mm)(-0.949mm,-0.742mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.062mm,-0.722mm)(-1.023mm,-0.718mm) on Top Overlay And Track (-1.062mm,-0.722mm)(-1.023mm,-0.718mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.095mm,-0.743mm)(-1.062mm,-0.722mm) on Top Overlay And Track (-1.095mm,-0.743mm)(-1.062mm,-0.722mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.117mm,-0.777mm)(-1.095mm,-0.743mm) on Top Overlay And Track (-1.117mm,-0.777mm)(-1.095mm,-0.743mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.124mm,-0.818mm)(-1.117mm,-0.777mm) on Top Overlay And Track (-1.124mm,-0.818mm)(-1.117mm,-0.777mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.124mm,-0.818mm)(-1.096mm,-0.894mm) on Top Overlay And Track (-1.124mm,-0.818mm)(-1.096mm,-0.894mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-1.096mm,-0.894mm)(-0.991mm,-1.019mm) on Top Overlay And Track (-1.096mm,-0.894mm)(-0.991mm,-1.019mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.991mm,-1.019mm)(-0.871mm,-1.116mm) on Top Overlay And Track (-0.991mm,-1.019mm)(-0.871mm,-1.116mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.76mm,-1.132mm)(-0.728mm,-1.111mm) on Top Overlay And Track (-0.76mm,-1.132mm)(-0.728mm,-1.111mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.798mm,-1.138mm)(-0.76mm,-1.132mm) on Top Overlay And Track (-0.798mm,-1.138mm)(-0.76mm,-1.132mm) on Top Overlay
+BLUEPILL                 Duplicate Primitives: Track (-0.871mm,-1.116mm)(-0.798mm,-1.138mm) on Top Overlay And Track (-0.871mm,-1.116mm)(-0.798mm,-1.138mm) on Top Overlay
+
