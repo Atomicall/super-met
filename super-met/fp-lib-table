@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "super-met")(type "KiCad")(uri "${KIPRJMOD}/libs/super-met.pretty")(options "")(descr ""))
+  (lib (name "libs")(type "KiCad")(uri "${KIPRJMOD}/libs")(options "")(descr ""))
+  (lib (name "ESP8266")(type "KiCad")(uri "D:/Proj/PCBs/res/Esp8266/ESP8266.pretty")(options "")(descr ""))
+)
