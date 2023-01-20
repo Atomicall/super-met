@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "74HC4052D")(type "KiCad")(uri "${KIPRJMOD}/libs/74HC4052D.kicad_sym")(options "")(descr ""))
+  (lib (name "super-met")(type "KiCad")(uri "${KIPRJMOD}/libs/super-met.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP8266")(type "KiCad")(uri "${KIPRJMOD}/libs/Esp8266/ESP8266.kicad_sym")(options "")(descr ""))
+)
