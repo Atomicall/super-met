@@ -4937,7 +4937,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 26.67 212.09 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3ff9388d-99f6-47cc-8d35-6f9369555500)
-    (property "Reference" "TP?" (id 0) (at 20.32 212.09 90))
+    (property "Reference" "TP11" (id 0) (at 20.32 212.09 90))
     (property "Value" "TestPoint" (id 1) (at 20.32 210.82 90))
     (property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm" (id 2) (at 26.67 207.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6357,7 +6357,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 26.67 208.28 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fde5fc6a-901e-4eb7-9a63-4921ec72a024)
-    (property "Reference" "TP?" (id 0) (at 20.32 208.28 90))
+    (property "Reference" "TP10" (id 0) (at 20.32 208.28 90))
     (property "Value" "TestPoint" (id 1) (at 20.32 207.01 90))
     (property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm" (id 2) (at 26.67 203.2 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6601,11 +6601,11 @@
     (path "/3cdc1c94-0eca-4f96-b8fa-8e62c475b7ab"
       (reference "TP9") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
     )
-    (path "/3ff9388d-99f6-47cc-8d35-6f9369555500"
-      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
-    )
     (path "/fde5fc6a-901e-4eb7-9a63-4921ec72a024"
-      (reference "TP?") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
+      (reference "TP10") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
+    )
+    (path "/3ff9388d-99f6-47cc-8d35-6f9369555500"
+      (reference "TP11") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_2.0x2.0mm")
     )
     (path "/f63ee7d4-ecc1-488b-9f90-733ee9f9aa08"
       (reference "U1") (unit 1) (value "DC-DC_MOD") (footprint "super-met:DC-DC")
